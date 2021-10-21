@@ -43,6 +43,18 @@ img {
   border: 0;
   max-width: 100%;
 }
+
+#myimage{
+   margin-top: 120px;
+   height: 310px;
+   width: 280px;  
+} 
+
+#aboutdiv{
+display:flex;
+align-items:center;
+}
+
 html {
   -ms-overflow-style: scrollbar;
 }
